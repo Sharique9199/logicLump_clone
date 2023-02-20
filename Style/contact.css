@@ -314,7 +314,7 @@ form{
 .img-contact{
     width: 35%;
     margin-top: 5rem;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .img-contact img{
     width: 110%;
